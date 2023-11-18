@@ -12,11 +12,19 @@ super + d
 
 # explorer
 super + e
-	thunar
+	lf
 
 # Browser
 alt + f
 	firefox
+
+# Screenshot screen
+super + p
+	maim ~/Pictures/screenshot.png
+
+# Select area to take a screenshot of
+super + alt + p
+	maim -s ~/Pictures/screenshot.png
 
 # make sxhkd reload its configuration files:
 super + Escape
