@@ -1,8 +1,8 @@
 <h1 align="center">My Arch Setup</h1> 
 
-<a><img src="https://github.com/SimonJpg2/dotfiles/blob/master/"/></a>
+<a><img src="https://github.com/SimonJpg2/dotfiles/blob/master/Picture1.png"/></a>
 
-<a><img src = "https://github.com/SimonJpg2/dotfiles/blob/master/"/></a>
+<a><img src = "https://github.com/SimonJpg2/dotfiles/blob/master/Picture2.png"/></a>
 
 This repo contains configuration files and scripts of my bspwm and polybar setup and other software I use.
 
