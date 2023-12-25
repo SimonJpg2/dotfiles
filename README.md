@@ -17,11 +17,19 @@ Feel free to copy any of the dotfiles or scripts you find here, as much of it is
 5. picom
 6. rofi
 7. lxappearance
-8. lightdm
+8. ly
 9. lf
 10. dunst
 11. mupdf
-12. pavucontrol
-13. maim
+12. CoreImage
+13. pavucontrol
+14. maim
+15. Celluloid
+
+### Themes and stuff like this
+1. Breeze
+2. starship.rs
+3. Jetbrains Mono Nerd Font
+4. Papirus
 
 This list does not aim to be complete.
