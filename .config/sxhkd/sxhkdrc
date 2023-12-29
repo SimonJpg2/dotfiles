@@ -16,15 +16,15 @@ super + e
 
 # Browser
 alt + f
-	firefox
+	librewolf
 
 # Screenshot screen
 super + p
-	maim ~/Pictures/screenshot.png
+	maim -s ~/Pictures/screenshot.png
 
 # Select area to take a screenshot of
 super + alt + p
-	maim -s ~/Pictures/screenshot.png
+	maim ~/Pictures/screenshot.png
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -45,6 +45,9 @@ super + q
 # Toggle fullscreen
 super + f
 	bspc desktop -l next
+
+super + x
+	i3lock -c 000000
 
 # send the newest marked node to the newest preselected node (Unused)
 super + y
