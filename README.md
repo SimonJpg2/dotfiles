@@ -4,7 +4,7 @@
 
 <a><img src = "https://github.com/SimonJpg2/dotfiles/blob/master/Picture3.png"/></a>
 
-<a><img src = "https://github.com/SimonJpg2/dotfiles/blob/master/Picture2.png"/></a>
+<a><img src = "https://github.com/SimonJpg2/dotfiles/blob/master/Picture4.png"/></a>
 
 This repo contains configuration files and scripts of my bspwm and polybar setup and other software I use.
 
